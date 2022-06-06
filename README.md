@@ -1,4 +1,4 @@
-![Banner](https://github.com/terekhovva/terekhovva/blob/main/bannergh.png])
+![Banner](https://github.com/terekhovva/terekhovva/blob/main/bannergh.png)
 
 ![terekhovva's GitHub stats](https://github-readme-stats.vercel.app/api?username=terekhovva&show_icons=true&theme=bear)
 
