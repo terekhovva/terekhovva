@@ -4,7 +4,7 @@
 
 ---
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Hi, I'm Daria and I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - Student of Omsk Aviation College named after N. E. Zhukovsky
 
 - Сontact me : [![Mail Badge](https://img.shields.io/badge/-mail.ru-9F1474?style=flat&logo=mail.ru&logoColor=white)](https://e.mail.ru/compose/?to=terekhovva88@mail.ru)
